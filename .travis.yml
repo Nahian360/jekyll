@@ -5,11 +5,11 @@ language: ruby
 sudo: false
 
 rvm:
-  - &ruby1 2.5.0
-  - &ruby2 2.4.2
-  - &ruby4 2.3.5
-  - &ruby4 2.2.8
-  - &ruby5 2.1.10
+  - &ruby1 2.5
+  - &ruby2 2.4
+  - &ruby3 2.3
+  - &ruby4 2.2
+  - &ruby5 2.1
   - &jruby jruby-9.1.14.0
 
 matrix:
